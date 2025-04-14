@@ -1,0 +1,9 @@
+Type,Title,Author,Genre,ISBN,Status,Number of pages,Due date,File format
+P,The Great Gatsby,F. Scott Fitzgerald,Classic,9780743273565,available,180,-,-
+P,To Kill a Mockingbird,Harper Lee,Fiction,9780061120084,borrowed,281,20/04/2025,-
+P,1984,George Orwell,Dystopian,9780451524935,borrowed,328,18/04/2025,-
+E,The Martian,Andy Weir,Science Fiction,9780804139021,available,-,-,EPUB
+E,Becoming,Michelle Obama,Biography,9781524763138,available,-,-,MOBI
+P,The Catcher in the Rye,J.D. Salinger,Classic,9780316769488,borrowed,214,22/04/2025,-
+E,Atomic Habits,James Clear,Self-help,9780735211292,available,-,-,PDF
+P,The Hobbit,J.R.R. Tolkien,Fantasy,9780547928227,available,310,-,-
